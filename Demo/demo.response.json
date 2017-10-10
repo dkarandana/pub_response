@@ -1,0 +1,25 @@
+{
+    "success": true,
+    "records": {
+        "technology": [
+            "technology1",
+            "technology2",
+            "technology3"
+        ],
+        "model": [
+            "model1",
+            "model2",
+            "model3"
+        ],
+        "manufacturer": [
+            "manufacturer1",
+            "manufacturer2",
+            "manufacturer3"
+        ],
+        "pdf": [
+            "doc1.pdf",
+            "doc1.pdf",
+            "doc1.pdf"
+        ]
+    }
+}
