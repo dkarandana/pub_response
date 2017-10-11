@@ -2,19 +2,19 @@
     "success": true,
     "records": {
         "technology": [
-            "technology1",
-            "technology2",
-            "technology3"
+            "Technology 01",
+            "Technology 02",
+            "Technology 03"
         ],
         "model": [
-            "model1",
-            "model2",
-            "model3"
+            "Model 01",
+            "Model 02",
+            "Model 03"
         ],
         "manufacturer": [
-            "manufacturer1",
-            "manufacturer2",
-            "manufacturer3"
+            "Singer",
+            "Apple",
+            "Samsung"
         ],
         "pdf": [
             "doc1.pdf",
