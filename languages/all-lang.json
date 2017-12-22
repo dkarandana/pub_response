@@ -1,0 +1,196 @@
+[{
+	"code": "en",
+	"name": "English",
+	"native": "English",
+	"langId": "1"
+}, {
+	"code": "es",
+	"name": "Spanish español",
+	"native": "castellano ",
+	"langId": 2
+}, {
+	"code": "fr",
+	"name": "French",
+	"native": "français",
+	"langId": 3
+}, {
+	"code": "pt",
+	"name": "Portuguese",
+	"native": "português",
+	"langId": 4
+}, {
+	"code": "zh",
+	"name": "Chinese (simplified)",
+	"native": "中文",
+	"langId": 5
+}, {
+	"code": "zs",
+	"name": "Chinese (simplified)",
+	"native": "简体中文",
+	"langId": 5
+}, {
+	"code": "ja",
+	"name": "Japanese Nihongo ",
+	"native": "日本語",
+	"langId": 6
+}, {
+	"code": "de",
+	"name": "German",
+	"native": "Deutsch ",
+	"langId": 7
+}, {
+	"code": "it",
+	"name": "Italian",
+	"native": "italiano ",
+	"langId": 8
+}, {
+	"code": "ru",
+	"name": "Russian",
+	"native": "русский ",
+	"langId": 9
+}, {
+	"code": "nl",
+	"name": "Dutch",
+	"native": "Nederlands ",
+	"langId": 10
+}, {
+	"code": "zt",
+	"name": "Chinese (traditional)",
+	"native": "繁體中文 ",
+	"langId": 12
+}, {
+	"code": "hu",
+	"name": "Hungarian",
+	"native": "magyar",
+	"langId": 13
+}, {
+	"code": "el",
+	"name": "Greek",
+	"native": "ελληνικά",
+	"langId": 14
+}, {
+	"code": "ar",
+	"name": "Arabic",
+	"native": "الْعَرَبيّة",
+	"langId": 15
+}, {
+	"code": "sv",
+	"name": "Swedish",
+	"native": "svenska",
+	"langId": 16
+}, {
+	"code": "no",
+	"name": "Norwegian",
+	"native": "norsk",
+	"langId": 17
+}, {
+	"code": "cs",
+	"name": "Czech",
+	"native": "čeština",
+	"langId": 18
+}, {
+	"code": "tr",
+	"name": "Turkish",
+	"native": "Türkçe",
+	"langId": 19
+}, {
+	"code": "ca",
+	"name": "Catalan",
+	"native": "català ",
+	"langId": 20
+}, {
+	"code": "da",
+	"name": "Danish",
+	"native": "dansk",
+	"langId": 21
+}, {
+	"code": "hr",
+	"name": "Croatian",
+	"native": "hrvatski",
+	"langId": 23
+}, {
+	"code": "sk",
+	"name": "Slovak",
+	"native": "slovenčina",
+	"langId": 24
+}, {
+	"code": "lt",
+	"name": "Lithuanian",
+	"native": "lietuvių",
+	"langId": 25
+}, {
+	"code": "ko",
+	"name": "Korean",
+	"native": "한국어",
+	"langId": 26
+}, {
+	"code": "pl",
+	"name": "Polish",
+	"native": "polski",
+	"langId": 27
+}, {
+	"code": "id",
+	"name": "Indonesian bahas",
+	"native": "indonesia",
+	"langId": 28
+}, {
+	"code": "he",
+	"name": "Hebrew ivrit ",
+	"native": "עברית",
+	"langId": 29
+}, {
+	"code": "et",
+	"name": "Estonian",
+	"native": "eesti",
+	"langId": 30
+}, {
+	"code": "lv",
+	"name": "Latvian",
+	"native": "latviešu",
+	"langId": 31
+}, {
+	"code": "ro",
+	"name": "Romanian",
+	"native": "română",
+	"langId": 32
+}, {
+	"code": "is",
+	"name": "Icelandic",
+	"native": "íslenska",
+	"langId": 33
+}, {
+	"code": "fi",
+	"name": "Finnish",
+	"native": "suomi",
+	"langId": 34
+}, {
+	"code": "sl",
+	"name": "Slovene slovenščina 35 (supported introduced in Toolbo",
+	"native": "14",
+	"langId": 24
+}, {
+	"code": "th",
+	"name": "Thai ภาษาไทย phas",
+	"native": "thai ",
+	"langId": 36
+}, {
+	"code": "sr",
+	"name": "Serbian",
+	"native": "српски",
+	"langId": 200
+}, {
+	"code": "vi",
+	"name": "Viet",
+	"native": "Việt",
+	"langId": 22
+}, {
+	"code": "uk",
+	"name": "Ukrainian українська мова (supported introduced in Toolbo",
+	"native": "14",
+	"langId": 14
+}, {
+	"code": "fa",
+	"name": "Persian فارسی (supported introduced in Toolbo",
+	"native": "16",
+	"langId": 16
+}]
